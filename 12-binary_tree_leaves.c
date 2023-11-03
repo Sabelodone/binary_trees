@@ -1,4 +1,4 @@
-#include "binary_trees.h"/
+#include "binary_trees.h"
 
 /**
  * preorder_traverse - Traverse a binary tree and count leaves.
